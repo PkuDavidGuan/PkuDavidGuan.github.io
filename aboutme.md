@@ -9,4 +9,4 @@ subtitle: CS Master Candidate @ PKU
 
 ### My history
 * I received the B.E. degree at [the School of Electronics Engineering and Computer Science](http://eecs.pku.edu.cn/) in [Peking University](https://www.pku.edu.cn/) from September 2014 to July 2018.
-* I was a full-time intern at [Megvii](https://www.microsoft.com/en-us/research/group/social-computing-beijing/) from February 2018 to September 2018, supervised by [Dr. Cong Yao](https://cong-yao.weebly.com/).
+* I was a full-time intern at [Megvii](https://megvii.com/) from February 2018 to September 2018, supervised by [Dr. Cong Yao](https://cong-yao.weebly.com/).
