@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: CS Master Candidate @ PKU
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+* I’m a Master candidate at [the School of Electronics Engineering and Computer Science](http://eecs.pku.edu.cn/) in [Peking University](www.pku.edu.cn) from September 2018 to July 2021 (_expected_), supervised by [Prof. Kaigui Bian](http://net.pku.edu.cn/~bkg/).
+* My research focuses on **Scene Text Detection and Recognition** and other **Machine Learning/ Data Mining Applications**.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### My history
+* I received the B.E. degree at [the School of Electronics Engineering and Computer Science](http://eecs.pku.edu.cn/) in [Peking University](https://www.pku.edu.cn/) from September 2014 to July 2018.
+* I was a full-time intern at [Megvii](https://www.microsoft.com/en-us/research/group/social-computing-beijing/) from February 2018 to September 2018, supervised by [Dr. Cong Yao](https://cong-yao.weebly.com/).
