@@ -24,7 +24,8 @@ description: A CS student major in computer vision in Peking University
 # List of links in the navigation bar
 navbar-links:
   GitHub Pages: "https://github.com/PkuDavidGuan"
-  #About Me: "aboutme"
+  About Me: "aboutme"
+  Awards: "awards"
   #Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
