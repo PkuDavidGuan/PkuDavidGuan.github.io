@@ -4,7 +4,7 @@ title: About me
 subtitle: CS Master Candidate @ PKU
 ---
 
-* I’m a Master candidate at [the School of Electronics Engineering and Computer Science](http://eecs.pku.edu.cn/) in [Peking University](www.pku.edu.cn) from September 2018 to July 2021 (_expected_), supervised by [Prof. Kaigui Bian](http://net.pku.edu.cn/~bkg/).
+* I’m a Master student at [the School of Electronics Engineering and Computer Science](http://eecs.pku.edu.cn/) in [Peking University](www.pku.edu.cn) from September 2018 to July 2021 (_expected_), supervised by [Prof. Kaigui Bian](http://net.pku.edu.cn/~bkg/).
 * My research focuses on **Scene Text Detection and Recognition, Model compression, adaptive video streaming** and other **Machine Learning/ Data Mining Applications**.
 
 ### My history
